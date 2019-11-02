@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FAQLayout_Example' do
+  pod 'FAQLayout', :path => '../'
+
+  target 'FAQLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
