@@ -1,0 +1,6 @@
+framework module FAQLayout {
+  umbrella header "FAQLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

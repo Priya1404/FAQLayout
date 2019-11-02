@@ -1,0 +1,16 @@
+PODS:
+  - FAQLayout (0.1.0)
+
+DEPENDENCIES:
+  - FAQLayout (from `../`)
+
+EXTERNAL SOURCES:
+  FAQLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FAQLayout: cc6761d713ed6b14b0de07f0264ec5fc72ed3364
+
+PODFILE CHECKSUM: 3e2031cd743d34cbd026c1e5a73dd7073657d9e4
+
+COCOAPODS: 1.8.1
